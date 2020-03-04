@@ -20,9 +20,12 @@ public class Main {
 		
 		do {
 			System.out.println(k);
+			k++;
 		}while(k <= 20);
 		
-		for(j=)
+		for(j=1;j<=20;j++) {
+			System.out.println(j);
+		}
 	}
 
 }
